@@ -1,2 +1,1 @@
-*.sql linguist-documentation=false
-linguist-vendored
+*.sql linguist-detectable=true
